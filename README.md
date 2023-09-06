@@ -21,10 +21,11 @@
 
 ## Contact Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/fawaa-el-akbar-firdaus-52b26317b/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="-"><img src="https://img.shields.io/badge/<>-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100011173840317"><img src="https://img.shields.io/badge/<>-%23034EFC.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/fais.akbar13/"><img src="https://img.shields.io/badge/<>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/fawaa-el-akbar-firdaus-52b26317b/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+  <a href="https://www.instagram.com/fais.akbar13/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> </a>
+  <a href="-"><img src="https://img.shields.io/badge/Twitter-02A9FF?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
+  <a href="-"><img src="https://img.shields.io/badge/Facebook-%23034EFC.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/> </a>
+  
 </p>
 
 <!--
